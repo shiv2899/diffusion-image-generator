@@ -6,7 +6,7 @@ AI that learns to clean noise, and then creates new images from pure static.
 
 Pure noise se bani 16 nayi digits:
 
-[Generated Digits](results/generated_digits.png)
+![Generated Digits](results/generated_digits.png)
 
 ## How it Works (4 Phases)
 
